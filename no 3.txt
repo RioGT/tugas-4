@@ -1,0 +1,1 @@
+3.Bedanya if elseif mengerjakan tugasya dengan cara memeriksa statement kondisi yang ada satu persatu, maka switch tidak. Switch akan memeriksa nilai statement kondisi bersamaan lalu menjalankan yag nilai kondisinya sesuai

@@ -1,0 +1,28 @@
+1.begin
+2.string nama;
+3.int nilai1,nilai2,nilai3,rata2;
+4.input name
+  nama<-masukan nama siswa
+5.input number
+  nilai1<-masukan nilai pertandingan 1  
+  nilai2<-masukan nilai pertandingan 2 
+  nilai3<-masukan nilai pertandingan 3 
+6.print nama siswa<-nama
+  print hasil pertandingan 1<-nilai1
+  print hasil pertandingan 2<-nilai2
+  print hasil pertandingan 3<-nilai3
+7.rata2 = (nilai1 + nilai2 + nilai3)/3
+8.print nama 
+  print rata2
+9. if (rata2 >= 85)
+    {
+        cout << "\nhadiah yang didapat adalah komputer core i5";
+    }
+    if else(rata2 >= 70){
+        cout << "\nhadiah yang didapat adalah uang sebesar Rp.2.500.000";
+    }
+    else{
+        cout << "\nhadiah yang didapat adalah hadiah hiburan";
+    }
+10. end
+	
